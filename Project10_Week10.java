@@ -3,8 +3,6 @@
 /// Finished Date: 4/14/2021
 /// @brief Program to create Employee names, hours, payrate and salary
 /// Display the data in a tabular format
-/// @note Total time taken to develop, write, test and debug this
-/// solution: 5-6 hrs
 
 import java.util.ArrayList;
 import java.util.Scanner;
