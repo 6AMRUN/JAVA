@@ -1,6 +1,5 @@
 /// @author 6AMRUN
 /// @version The date: 4/12/2021
-/// Finished Date: 4/14/2021
 /// @brief Program to create Employee names, hours, payrate and salary
 /// Display the data in a tabular format
 
